@@ -1,5 +1,6 @@
-# vagrant-selenium
+# vagrant-selenium For ShowHouse
 Vagrant configuration base on ubuntu/trusty64, ready to be used with Selenium.
+This project was forked and updated so it can access demo.showhousesoftware.local out of the box
 
 ## Introduction
 
